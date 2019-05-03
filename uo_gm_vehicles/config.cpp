@@ -17,9 +17,9 @@ class CfgPatches
 class CfgVehicles {
 	//#include "gm_tracked.cpp"
 	//#include "gm_wheeled.cpp"
-	#include "tracked/bmp.cpp"
-	#include "tracked/m113.cpp"
-	#include "tracked/leopard.cpp"
-	#include "tracked/t55.cpp"
-	#include "tracked/zsu.cpp"
+	#include "tracked\bmp.cpp"
+	#include "tracked\m113.cpp"
+	#include "tracked\leopard.cpp"
+	#include "tracked\t55.cpp"
+	#include "tracked\zsu.cpp"
 };
